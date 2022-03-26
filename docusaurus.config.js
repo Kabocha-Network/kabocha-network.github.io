@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Decentration ',
-  tagline: 'Open Source public networks',
-  url: 'https://decentration.github.io',
+  title: 'Kabocha Wiki',
+  tagline: 'Open Network Publics',
+  url: 'https://kabocha-network.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'decentration', // Usually your GitHub org/user name.
-  projectName: 'decentration.github.io', // Usually your repo name.
+  organizationName: 'kabocha-network', // Usually your GitHub org/user name.
+  projectName: 'kabocha-network.github.io', // Usually your repo name.
 
   presets: [
     [
@@ -38,15 +38,20 @@ const config = {
       }),
     ],
   ],
-
+  
+stylesheets: [
+    'https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700',
+    'https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,400;1,300&family=Space+Grotesk:wght@400;600;700&display=swap'
+  ],
   themeConfig:
+  
     // /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Decentration',
+        title: 'Kabocha Wiki',
         logo: {
-          alt: 'Deece logo',
-          src: '/img/decentration.svg',
+          alt: 'Kabocha logo',
+          src: '/img/kabocha.svg',
         },
         items: [
           {
@@ -106,7 +111,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Kabocha True Trust`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -114,5 +119,7 @@ const config = {
       },
     }),
 };
+
+
 
 module.exports = config;
