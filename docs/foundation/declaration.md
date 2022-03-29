@@ -4,10 +4,9 @@ sidebar_position: 1
 
 # Declaration of Sovereignty
 
+The intention of the below document is not to be a foundational binding document, but to be a statement of motivation, and to also show similar circumstances people faced in 1776.
 
 ![Declaration of Independence](https://www.archives.gov/files/founding-docs/declaration_of_independence_630.jpg)<sup>(This new Record is Hard Forked and Templated from the Declaration of Independence).</sup>
-
-
 
 ~~In Congress, July 4, 1776~~ In Honour, March 27, 2022
 The unanimous Declaration of the ~~thirteen united States of America~~ **sovereign Network Public of Kabocha**, When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.

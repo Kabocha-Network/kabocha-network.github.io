@@ -10,11 +10,6 @@ _This page is a copy of the Initial Member Record Testimony. You can make the Te
 
 **Make Testimony:** _link_
 
-
-
-
-
-
 ## Registration of your Initial Member Record with Kabocha
 
 **Initial Testimony to enter the Kabocha jurisdiction**
@@ -29,15 +24,18 @@ By entering the Kabocha jurisdiction you Testify to not be functioning in the Ro
 
 Any aforementioned Role, capacity or title from a different jurisdiction has no effect in the jurisdiction of the Kabocha Network Public. The jurisdiction where Kabocha resides is a superior jurisdiction to any other jurisdiction or society. 
 
-Kabocha Network Public is a True Trust under the law of Ucadia. 
+All matters shall be dealt with in the Kabocha jurisdiction under ucadian law. 
+
+Kabocha Network Public is a University True Trust under the law of Ucadia. 
 
 Ucadia is the canonical framework of Law where the True Trust is Granted.
 
-Kabocha Network Public is a Consent and Honour based system, with Intentions of Conscience, Benevolence and to Empower People from the shackles and Enslavement of the Rulers of the Inferior Systems we were forcibly born into without Consent. 
+Kabocha Network Public is a Consent and Honour based system, with Intentions of Expanding Benevolent Consciousness and to Empower People from the shackles and Enslavement of the Rulers of the Inferior Systems we were forcibly born into without Consent. 
 
 The Kabocha Seed NFT in its Initial Form represents initial Temporary rights into the True Trust of Kabocha Sovereign Network Public. 
 
 By making this initial Testimony, making a nominal contribution to Kabocha in the form of Locking KSM in a “Crowdloan” and signing through the Kabocha portal, you are Assigned Initial Temporary Rights in the Kabocha Network Public. 
+
 
 _Other Kabocha Documents:_
 
