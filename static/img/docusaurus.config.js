@@ -56,7 +56,7 @@ stylesheets: [
         items: [
           {
             type: 'doc',
-            docId: 'getting-started/welcome',
+            docId: 'intro',
             position: 'left',
             label: 'Docs',
           },
@@ -76,7 +76,7 @@ stylesheets: [
             items: [
               {
                 label: 'Tutorial',
-                to: 'docs/getting-started/welcome',
+                to: '/docs/getting-started',
               },
             ],
           },

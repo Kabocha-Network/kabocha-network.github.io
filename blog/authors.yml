@@ -1,21 +1,8 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
-
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-
+rich:
+  name: Richard Wells
+  title: Network Steward for Kabocha, founder of Decent Partners 
+  url: https://decent.partners
+  image_url: https://images.squarespace-cdn.com/content/v1/5dc16cecc298f37108871bc9/1576594866129-LIKU8SVVA20BWCUWJ8EX/white_transparent.png?format=1500w
 ramsey:
   name: Ramsey
   title: founder of Decentration

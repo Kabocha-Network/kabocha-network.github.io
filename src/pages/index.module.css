@@ -33,3 +33,14 @@
   align-items: center;
   justify-content: center;
 }
+.footer--dark { 
+  
+  background-color: #000 !important; 
+  color: white !important;
+}
+
+.footer { 
+  
+  background-color: #000 !important; 
+  color: white !important;
+}
