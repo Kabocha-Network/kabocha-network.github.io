@@ -12,5 +12,5 @@ Network Publics enable the sustainable funding of creative contributions from bo
 A Network Public is a decentralised trust that sits on its own sovereign blockchain. The blockchain may be a parachain or relay chain with its own out-of-the box modules (substrate pallets) that allow the community of participants to interface with each other, financially, lawfully and culturally.
 
 ## Publiks
-Network Publics have a resource ofall share an opinionated Substrate design templates known as _Publiks_, which has various versioned release that fit the varied requirements and needs of users.
+Network Publics have a resource of opinionated Substrate design templates known as _Publiks_, which has various versioned release that fit the varied requirements and needs of users.
 
