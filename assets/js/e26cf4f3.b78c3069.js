@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[492],{8825:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/technical-steward","name":"technical steward","count":1,"permalink":"/blog/tags/technical-steward"}')}}]);

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://kabocha-network.github.io/blog</id>
+    <id>https://wiki.kabocha.network/blog</id>
     <title>Kabocha Wiki Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://kabocha-network.github.io/blog"/>
+    <link rel="alternate" href="https://wiki.kabocha.network/blog"/>
     <subtitle>Kabocha Wiki Blog</subtitle>
-    <icon>https://kabocha-network.github.io/img/favicon.ico</icon>
+    <icon>https://wiki.kabocha.network/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
-        <link href="https://kabocha-network.github.io/blog/welcome"/>
+        <link href="https://wiki.kabocha.network/blog/welcome"/>
         <updated>2021-08-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Currently my blog posts are on the Medium Blog. I will hsortly be porting them into this blog area. In the meantime, please peruse over there : )]]></summary>
         <content type="html"><![CDATA[<p>Currently my <a href="https://decentration.medium.com/" target="_blank" rel="noopener noreferrer">blog</a> posts are on the Medium Blog. I will hsortly be porting them into this blog area. In the meantime, please peruse over there : )</p>]]></content>
@@ -22,9 +22,28 @@
         <category label="technical steward" term="technical steward"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Introducing Proof of Proposal (PoP)]]></title>
+        <id>pop</id>
+        <link href="https://wiki.kabocha.network/blog/pop"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Intro]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="intro">Intro<a class="hash-link" href="#intro" title="Direct link to heading">​</a></h2><p>Kabocha is making some changes from the standard (Substrate) funding process, by adding our Proof of Proposal (PoP) mechanism. We are minting new coins for successfully funded project proposals, rather than taking it from the treasury, which is the current process. This means that KAB stimulus will be directed to a project, creator, founder or team. </p><h2 class="anchor anchorWithStickyNavbar_mojV" id="whatis-the-process-for-edgeware-and-general-dotsama">Whatis the process for Edgeware and general "DotSama"?<a class="hash-link" href="#whatis-the-process-for-edgeware-and-general-dotsama" title="Direct link to heading">​</a></h2><p>In Edgeware (and generally the same for DotSama) we have a treasury that releases funds through a proposal system. This is made available through wiring a few different pallets together to make the democracy pallet. A combination of yearly inflation and share of transaction fees (and a few other less significant things) puts coins into the treasury. The treasury sits at roughly 10% of the network. This has been a great way to fund people working in the Edgeware ecosystem. </p><p>In Bitcoin, Satoshi aligned incentives to securing the network by allowing rewards for miners. He designed a fixed reward mechanism that inflated the coin base over a period of ~100 years.
+In the current fiat world, the central bank prints money to stimulate the economy, or at least that is their stated intention. If the stimulus went directly to fund and support human endeavour. The important part of it must be that value is produced, which is greater or equal to the money that is printed, else the debasement would devalue everyone. </p><h2 class="anchor anchorWithStickyNavbar_mojV" id="what-about-the-democracy-governed-treasury-account-for-kabocha">What about the democracy governed treasury account for Kabocha?<a class="hash-link" href="#what-about-the-democracy-governed-treasury-account-for-kabocha" title="Direct link to heading">​</a></h2><p>We are keeping the treasury which accrues not just our native coins, but also other assets such as KSM and DOT. As well as non-fungible assets such as creative productions, deeds, treasury notes, and genesis mints from creators that get funded by Kabocha. These other mix of currencies can be provided as part of a project's proposal so that there is liquidity pools available to fund project expenses. The KAB currency that projects receive can then be kept as more of stake thus relieving downward pressure on the exchanges, and aligning the Project to Kabocha long term.</p>]]></content>
+        <author>
+            <name>Ramsey</name>
+            <uri>https://github.com/decentration</uri>
+        </author>
+        <author>
+            <name>Richard Wells</name>
+            <uri>https://decent.partners</uri>
+        </author>
+        <category label="decentration" term="decentration"/>
+        <category label="technical steward" term="technical steward"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Decent Partners Initial Post]]></title>
         <id>decent-partners--initial-post</id>
-        <link href="https://kabocha-network.github.io/blog/decent-partners--initial-post"/>
+        <link href="https://wiki.kabocha.network/blog/decent-partners--initial-post"/>
         <updated>2021-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Coming soon...]]></summary>
         <content type="html"><![CDATA[<p>Coming soon...
