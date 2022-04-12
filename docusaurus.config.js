@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Kabocha Wiki',
   tagline: 'Open Network Publics',
-  url: 'https://kabocha-network.github.io',
+  url: 'https://wiki.kabocha.network',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -56,7 +56,7 @@ stylesheets: [
         items: [
           {
             type: 'doc',
-            docId: 'getting-started/welcome',
+            docId: 'intro/welcome',
             position: 'left',
             label: 'Docs',
           },
@@ -76,7 +76,7 @@ stylesheets: [
             items: [
               {
                 label: 'Tutorial',
-                to: 'docs/getting-started/welcome',
+                to: 'docs/intro/welcome',
               },
             ],
           },

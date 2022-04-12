@@ -76,7 +76,7 @@ stylesheets: [
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/getting-started',
+                to: '/docs/intro',
               },
             ],
           },

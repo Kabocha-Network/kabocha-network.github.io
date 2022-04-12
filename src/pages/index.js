@@ -16,7 +16,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/getting-started/welcome">
+            to="/docs/intro/welcome">
             Tutorial - 5min (coming soon) ⏱️
           </Link>
         </div>
@@ -29,8 +29,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title} Wiki`}
+      description="Welcome to the hub for Kabocha's wiki and developer docs. <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
