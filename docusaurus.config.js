@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Kabocha Wiki',
-  tagline: 'Open Network Publics',
+  title: 'Building Hub',
+  tagline: 'For Network Publics',
   url: 'https://wiki.kabocha.network',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -48,7 +48,7 @@ stylesheets: [
     // /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Kabocha Wiki',
+        title: '',
         logo: {
           alt: 'Kabocha logo',
           src: '/img/kabocha-clear.svg',
@@ -61,11 +61,11 @@ stylesheets: [
             label: 'Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/decentration',
-            label: 'GitHub',
-            position: 'right',
-          },
+          
+          { href: 'https://kabocha.network/', label: 'Home', position: 'right'},
+          { href: 'https://apps.decentration.org/', label: 'Apps', position: 'right'},
+          { href: 'https://wiki.kabocha.network/recipes', label: 'Recipes', position: 'right'},
+          { href: 'https://github.com/decentration', label: 'Repos', position: 'right' },
         ],
       },
       footer: {

@@ -6,7 +6,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Decentralised',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/pumpkin-orange.svg').default,
     description: (
       <>
         Decentration builds decentralised open-source technologies and blockchain networks. 
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Holistic ',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/pumpkin-green.svg').default,
     description: (
       <>
         Our approach to building is holistic, humanistic, focussing on values. 
@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'Sovereign',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/pumpkin-yellow.svg').default,
     description: (
       <>
         Sovereign, self-evolving, self-governing, self-determining. 
