@@ -9,7 +9,7 @@ const FeatureList = [
     Svg: require('@site/static/img/pumpkin-orange.svg').default,
     description: (
       <>
-        Decentration builds decentralised open-source technologies and blockchain networks. 
+        Kabocha builds decentralised open-source technologies and blockchain networks. 
       </>
     ),
   },
