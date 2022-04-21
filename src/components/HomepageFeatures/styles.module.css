@@ -6,6 +6,23 @@
 }
 
 .featureSvg {
-  height: 200px;
-  width: 200px;
+  height: 250px;
+  width: 250px;
+}
+
+.learnMore {
+  font-family: 'Space Grotesk', sans-serif !important;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.descriptStyle {
+  font-family: 'Space Grotesk', sans-serif !important;
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+.seedOne {
+  src: url(@site/static/img/seed3.jpg);
 }

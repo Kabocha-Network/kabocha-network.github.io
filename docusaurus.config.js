@@ -63,6 +63,8 @@ stylesheets: [
           {to: '/blog', label: 'Blog', position: 'left'},
           
           { href: 'https://kabocha.network/', label: 'Home', position: 'right'},
+          { href: 'https://edgewa.re/', label: 'Edgeware', position: 'right'},
+          { href: 'https://gov.edgewa.re/', label: 'Gov', position: 'right'},
           { href: 'https://apps.decentration.org/', label: 'Apps', position: 'right'},
           { href: 'https://wiki.kabocha.network/recipes', label: 'Recipes', position: 'right'},
           { href: 'https://github.com/decentration', label: 'Repos', position: 'right' },
