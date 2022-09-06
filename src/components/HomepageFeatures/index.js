@@ -12,7 +12,7 @@ const FeatureList = [
     imageUrl: 'img/seedOne.jpg',
     description: (
       <>
-        Decentration builds decentralised open-source technologies and blockchain networks. 
+        Kabocha builds decentralised open-source technologies and blockchain networks. 
       </>
     ),
   },
