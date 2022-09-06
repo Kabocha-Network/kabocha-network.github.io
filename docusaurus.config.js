@@ -63,11 +63,10 @@ stylesheets: [
           {to: '/blog', label: 'Blog', position: 'left'},
           
           { href: 'https://kabocha.network/', label: 'Home', position: 'right'},
-          { href: 'https://edgewa.re/', label: 'Edgeware', position: 'right'},
           { href: 'https://gov.edgewa.re/', label: 'Gov', position: 'right'},
-          { href: 'https://apps.decentration.org/', label: 'Apps', position: 'right'},
+          { href: 'https://apps.decentration.org/', label: 'Blockchain', position: 'right'},
           { href: 'https://wiki.kabocha.network/recipes', label: 'Recipes', position: 'right'},
-          { href: 'https://github.com/decentration', label: 'Repos', position: 'right' },
+          { href: 'https://github.com/kabocha-network', label: 'Repos', position: 'right' },
         ],
       },
       footer: {
@@ -77,7 +76,7 @@ stylesheets: [
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Getting Started',
                 to: 'docs/intro/welcome',
               },
             ],
@@ -86,16 +85,16 @@ stylesheets: [
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Stack Exchange',
+                href: 'https://substrate.stackexchange.com/questions/',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/MC2jKfG2s4',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/decentrated',
+                href: 'https://twitter.com/kabochanetwork',
               },
             ],
           },
@@ -108,12 +107,12 @@ stylesheets: [
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/decentration',
+                href: 'https://github.com/kabocha-network',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Kabocha True Trust`,
+        copyright: `Copyright © ${new Date().getFullYear()} Kabocha True Trust Company`,
       },
       prism: {
         theme: lightCodeTheme,
