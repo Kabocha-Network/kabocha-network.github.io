@@ -47,3 +47,8 @@ Result:
   "id":1
 } //Alice, Bob and Charlie's accounts related to Supersig[0]
 ```
+## Use RPC functions for your own chain
+
+- Fork a node template containing `pallet_supersig` and RPC functions [here](https://github.com/decentration/substrate-supersig-template)
+- View the RPC section of the pallet [here](https://github.com/kabocha-network/pallet_supersig/tree/polkadot-v0.9.28)
+- See how the RPC functions are added to the runtime [here](https://github.com/decentration/substrate-supersig-template/blob/6fbce881471ef6b5730bb8bf4b68f2ee20f58025/runtime/src/lib.rs#L518)

@@ -4,4 +4,4 @@ sidebar_position: 1
 
 # Key Info
 
-Here is some key information about the Kabocha [crowdloan](https://crowdloan.kabocha.network/) and [FAQ](https://crowdloan.kabocha.network/#crowdloan-cap).
+Kabocha completed its crowdloan and gained a 48 week lease on Kusama. You can view the info [here](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama.api.onfinality.io%2Fpublic-ws#/parachains/crowdloan).

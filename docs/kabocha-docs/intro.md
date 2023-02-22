@@ -6,10 +6,9 @@ sidebar_position: 2
 
 **Repo**: https://github.com/kabocha-network/parachain 
 
-**Branch**: https://github.com/kabocha-network/parachain/tree/kab-release-v0.1.6
+**Branch**: https://github.com/kabocha-network/parachain/tree/kab-release-v0.2.5-new
 
 **Genesis Proposal**: https://gov.edgewa.re/discussion/2363-kabocha-kab-a-kusama-parachain-project-by-edgeware
-
 
 Kabocha parachain is the first part of the process of our multi-chain "network plan". 
 

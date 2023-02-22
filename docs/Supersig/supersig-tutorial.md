@@ -4,6 +4,12 @@ sidebar_position: 3
 
 # Supersig Tutorial
 
+:::info Walk Through Blog Post
+
+Follow a blog post guide about the quick set up of a substrate node template containing supersig, and polkadot-js apps fork [here](https://decentration.medium.com/setup-for-running-and-testing-supersig-m3-bc1ddfc25f43).
+
+:::
+
 In this tutorial you require a node-template with supersig pallet (and rpc functions) added.
 
 Repo: [substrate-supersig-template](https://github.com/decentration/substrate-supersig-template.git)
@@ -15,34 +21,48 @@ Repo: [substrate-supersig-template](https://github.com/decentration/substrate-su
 
 
 
+
 ## Create a supersig account
 
-Go to `Developer > Extrinsics > supersig > createSupersig(members)`
+Go to `Governance > Supersig > Create/Approve > supersig > createSupersig(members)`
+
+_Alternatively Go to `Developer > Extrinsics > supersig > createSupersig(members)`_
 
 ![createSupersig](/img/screenshots/createSupersig.png)
 _Notice how if you are the creator of the supersig, you must also add yourself as a member._ 
 
-## Save Supersig Address (and fund it)
+## Name the Supersig Address (and fund it)
 
 ![SupersigCreated](/img/screenshots/SupersigCreated.png)
-_Copy the address from event logs and add it as a contact in your address book._
 
-- Add the supersig to your address book 
+- Give the supersig a name.
 - Fund the supersig account from any account that has funds. 
+
+:::info Register your Supersig's identity with registrar
+
+If the blockchain you are creating your supersig has the identity pallet (like Kabocha) then you can make a proposal to register your supersig to have an identity so it becomes a known entity. 
+
+:::
 
 
 ## Make a call from your Supersig
 
-Now that your supersig is funded and has members, you can create a call that needs a simpleMajority to be executed.
-
-Go to `Developer > Extrinsics > supersig > submitCall(supersigAccount, call)`
+Now that your supersig is funded and has members, you can create a proposal. Thereafter the members of the supersig can vote for it.  
 
 ![submitCall](/img/screenshots/submitCall.png)
-_create a call from any funded account. In this example we submit a call to send balance transfer of 500 to Ferdie. Reminder that you need to add the amount plus the number of decimals for your blockchain, in this case 12 zeroes._
 
+- You can click the _Propose_ button from the dashboard. 
+
+- Or you can go to `Governance > Supersig > Create/Approve > submitCall(supersigAccount, call)`
+
+:::note The Proposer is not automatically a Voter
+
+If you created a proposal you will also need to vote on it. Votes are not automatically counted by the proposer. 
+
+:::
 ## Members vote/sign transactions
 
-Go to `Developer > Extrinsics > supersig > approveCall(supersigAccount, callId)`
+Go to `Governance > Supersig > Dashboard > Vote`
 
 ![ApproveCall](/img/screenshots/ApproveCall.png)
 _A simpleMajority of members sign a call for the supersig account._ 

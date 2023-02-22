@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-Supersig is like multisig but with some superpowers. It is designed to be can be fit for more versatile governance of permissionless collectives. The simple feature improvements from using multisig are: 
+Supersig is like multisig but with some extra superpowers. It is designed to be fit for more versatile governance of permissionless collectives. The simple feature improvements from using multisig are: 
 
 - **Add/remove** members; 
 - **simpleMajority threshold** instead of fixed threshold; 

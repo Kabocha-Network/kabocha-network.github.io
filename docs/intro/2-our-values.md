@@ -37,7 +37,3 @@ To really succeed we must really comprehend what we are facing and the root caus
 ## Education
 We are improving people’s learning outcomes by collaborating with Substrate Development Hub. 
 Rather than outsourcing the most expensive stars (kind of mercenary) who may not necessarily feel connected to the project, we are giving people an opportunity for live early experience, to people who feel connected. Part of our filtration process is inviting people to participate in community of knowledge and skill sharing, group learning, treasury proposals, and governance. Those who are interested to partake realise that they can self-assign a role for themselves given the reputation they have with the community. A dynamic and emergent leadership approach to organisation. 
-
-## Making the Privatised Public
-
-Looming dismantling of public services across the world with Public Private Partnerships
