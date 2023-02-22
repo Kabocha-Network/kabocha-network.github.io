@@ -15,6 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'kabocha-network', // Usually your GitHub org/user name.
   projectName: 'kabocha-network.github.io', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   presets: [
     [
