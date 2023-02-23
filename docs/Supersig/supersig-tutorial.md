@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # Supersig Tutorial
@@ -15,9 +15,9 @@ In this tutorial you require a node-template with supersig pallet (and rpc funct
 Repo: [substrate-supersig-template](https://github.com/decentration/substrate-supersig-template.git)
 
 
-## Video Tutorial
+<!-- ## Video Tutorial
 
-[![How to interact with a supersig 01 - Watch Video](/img/screenshots/video-image-supersig.png)](https://www.loom.com/share/dbcaa6319b1a4644aacb709aa0e38783)
+[![How to interact with a supersig 01 - Watch Video](/img/screenshots/video-image-supersig.png)](https://www.loom.com/share/dbcaa6319b1a4644aacb709aa0e38783) -->
 
 
 
@@ -82,13 +82,19 @@ _Bob voted and then the simpleMajority threshold was reached and the Call was ex
 
 ## Add/remove members
 
-Go to `Developer > Extrinsics > supersig > addMembers(newMembers)`
+Go to `Governance > Supersig > Create/Approve > submitCall > addMembers(newMembers)`
+
+_Or go to `Developer > Extrinsics > supersig > addMembers(newMembers)`_
+
+:::info
 
 **A common mistake**
 
 Here is a common way to submit a call. In this example we want to add a member, but just because the call is a supersig call it doesn't mean we can skip starting with `submitCall`
 ![AddMemberIncorrect](/img/screenshots/AddMemberIncorrect.png)
 _In this example we add Dave as a member, which also requires simpleMajority vote. But wait, it did not work because we need to submitCall then addMember within the call._
+
+:::
 
 **The correct way**
 ![AddMember](/img/screenshots/AddMember.png)
